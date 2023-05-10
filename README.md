@@ -1,5 +1,16 @@
-# belly-up-web
+# belly-up-web (BETA BRANCH)
 webbers
+
+**UNDERSTAND THAT THIS IS THE BETA BRANCH!!!!**
+* YES THERE WILL BE BUGS
+* YES IM WORKING TO FIX THEM
+* YES I LOVE YOU TOO 
+* thank you for trying out the beta branch
+* happy fishing!
+
+patch notes for beta branch v3.1.1
+- fixed a bug where fish spawn progression didn't affect players
+- ...many other bug fixes
 
 patch notes for beta branch v3.1
 - reworked fish kill counter to write to browser cache less
@@ -7,6 +18,7 @@ patch notes for beta branch v3.1
 - updated unity version to version 2022.2.16f1
 - reduced spawn frequency of blobfish
 - deployed github build
+- ...many other bug fixes
 
 **WARNING**
 GITHUB BUILT MIGHT CRASH WITH ERROR "RuntimeError: null function or function signature mismatch"
