@@ -12,6 +12,7 @@ patch notes for beta branch v0.3.1.1T
 - changed the naming scheme for updates...again
 - probably fixed a javascript bug that caused the game to crash (i dont know what im doing)
 - fixed a horrific bug where fish spawn progression didn't affect players
+- updated credits scene to properly credit our lovely guest composer, BlueMako
 - ...many other bug fixes
 
 patch notes for beta branch v3.1
