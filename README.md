@@ -8,7 +8,7 @@ webbers
 * thank you for trying out the beta branch
 * happy fishing!
 
-patch notes for beta branch v0.3.1.1
+patch notes for beta branch v0.3.1.1T
 - changed the naming scheme for updates...again
 - probably fixed a javascript bug that caused the game to crash (i dont know what im doing)
 - fixed a horrific bug where fish spawn progression didn't affect players
