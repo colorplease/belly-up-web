@@ -8,6 +8,12 @@ webbers
 * thank you for trying out the beta branch
 * happy fishing!
 
+patch notes for beta branch v0.3.3.0T
+*COMPLETE GUI overhaul with new sfx and animations
+*COMPLETE Fish Guide with new music
+* funny main menu spinny thing
+* ...and many more bug fixes
+
 patch notes for beta branch v0.3.2.1T
 - added pre-game menu that prompts user for control scheme (for all of you summer school folk)
 - updated tutorial to support trackpad control scheme
