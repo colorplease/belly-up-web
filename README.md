@@ -8,6 +8,13 @@ webbers
 * thank you for trying out the beta branch
 * happy fishing!
 
+patch notes for v1.1.1b
+* emergency balance changes for ENDLESS and yeah it does affect classic too
+* single-shot now pierces through enemies
+* spawn rates have been reduced in ENDLESS
+* zoom out in ENDLESS actually correlates with hitbox now
+* ...and many more bug fixes
+
 patch notes for v1.1.0b
 * hi guys sorry this took a year to finish
 * ADDED A COMPLETELY NEW GAMEMODE: ENDLESS
