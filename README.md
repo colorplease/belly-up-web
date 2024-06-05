@@ -8,6 +8,15 @@ webbers
 * thank you for trying out the beta branch
 * happy fishing!
 
+patch notes for v1.1.0b
+* hi guys sorry this took a year to finish
+* ADDED A COMPLETELY NEW GAMEMODE: ENDLESS
+* Endless is an endless mode that includes on online leaderboard. Try your best to get to the deepest depth you can and outrank your friends!
+* fixed this really annoying bug that would play more than the required amount of card flip noises at the title screen.
+* added progression, so you need to complete the tutorial to play classic, then you need to beat classic before you play endless.
+* changed the background of the tutorial to something much prettier
+* ...and many more bug fixes
+
 patch notes for beta branch v0.3.3.0T
 *COMPLETE GUI overhaul with new sfx and animations
 *COMPLETE Fish Guide with new music
